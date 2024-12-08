@@ -19,5 +19,12 @@
 - [糖醋小排](https://github.com/NicholasWei/Cooking-Complete/blob/master/018.%20%E7%B3%96%E9%86%8B%E5%B0%8F%E6%8E%92)
 - [芥末罗氏虾](https://github.com/NicholasWei/Cooking-Complete/blob/master/019.%20%E8%8A%A5%E6%9C%AB%E7%BD%97%E6%B0%8F%E8%99%BE)
 - [剁椒蒸鸡](https://github.com/NicholasWei/Cooking-Complete/blob/master/020.%20%E5%89%81%E6%A4%92%E8%92%B8%E9%B8%A1)
-
+- [鱼香茄子]
+- [口磨汤]
+- [炝炒莲花白]
+- [辣椒炒肉汤泡饭]
+- [醋炒蛋]
+- [酸汤肥牛]
+- [醋溜白菜]
+- [剁椒炒蛋]
 
