@@ -1,30 +1,4 @@
 # -Nicholas' cooking complete
-- [红烧带鱼](https://github.com/NicholasWei/Cooking-Complete/blob/master/001.%E7%BA%A2%E7%83%A7%E5%B8%A6%E9%B1%BC)
-- [清炒藕丁](https://github.com/NicholasWei/Cooking-Complete/blob/master/002.%20%E6%B8%85%E7%82%92%E8%97%95%E4%B8%81)
-- [清炒芸豆丝](https://github.com/NicholasWei/Cooking-Complete/blob/master/003.%20%E6%B8%85%E7%82%92%E8%8A%B8%E8%B1%86%E4%B8%9D)
-- [可乐鸡翅](https://github.com/NicholasWei/Cooking-Complete/blob/master/004.%20%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85)
-- [尖椒仔姜炒肉丝](https://github.com/NicholasWei/Cooking-Complete/blob/master/005.%20%E5%B0%96%E6%A4%92%E4%BB%94%E5%A7%9C%E7%82%92%E8%82%89%E4%B8%9D)
-- [红烧肉](https://github.com/NicholasWei/Cooking-Complete/blob/master/006.%20%E7%BA%A2%E7%83%A7%E8%82%89)
-- [豆豉鲮鱼油麦菜](https://github.com/NicholasWei/Cooking-Complete/blob/master/007.%20%E8%B1%86%E8%B1%89%E9%B2%AE%E9%B1%BC%E6%B2%B9%E9%BA%A6%E8%8F%9C)
-- [油泼辣子](https://github.com/NicholasWei/Cooking-Complete/blob/master/008.%20%E6%B2%B9%E6%B3%BC%E8%BE%A3%E5%AD%90)
-- [麻辣鸡丝](https://github.com/NicholasWei/Cooking-Complete/blob/master/009.%20%E9%BA%BB%E8%BE%A3%E9%B8%A1%E4%B8%9D)
-- [六月黄辣炒毛豆](https://github.com/NicholasWei/Cooking-Complete/blob/master/010.%20%E5%85%AD%E6%9C%88%E9%BB%84%E8%BE%A3%E7%82%92%E6%AF%9B%E8%B1%86)
-- [回锅茄子](https://github.com/NicholasWei/Cooking-Complete/blob/master/011.%20%E5%9B%9E%E9%94%85%E8%8C%84%E5%AD%90)
-- [黄油洋葱罗氏虾](https://github.com/NicholasWei/Cooking-Complete/blob/master/012.%20%E9%BB%84%E6%B2%B9%E6%B4%8B%E8%91%B1%E7%BD%97%E6%B0%8F%E8%99%BE)
-- [肉末凉粉](https://github.com/NicholasWei/Cooking-Complete/blob/master/013.%20%E8%82%89%E6%9C%AB%E5%87%89%E7%B2%89)
-- [花椒焗青蟹](https://github.com/NicholasWei/Cooking-Complete/blob/master/014.%20%E8%8A%B1%E6%A4%92%E7%84%97%E9%9D%92%E8%9F%B9)
-- [大盘鸡](https://github.com/NicholasWei/Cooking-Complete/blob/master/015.%20%E5%A4%A7%E7%9B%98%E9%B8%A1)
-- [蚝油油麦菜](https://github.com/NicholasWei/Cooking-Complete/blob/master/016.%20%E8%9A%9D%E6%B2%B9%E6%B2%B9%E9%BA%A6%E8%8F%9C)
-- [炒素双脆](https://github.com/NicholasWei/Cooking-Complete/blob/master/017.%20%E7%82%92%E7%B4%A0%E5%8F%8C%E8%84%86)
-- [糖醋小排](https://github.com/NicholasWei/Cooking-Complete/blob/master/018.%20%E7%B3%96%E9%86%8B%E5%B0%8F%E6%8E%92)
-- [芥末罗氏虾](https://github.com/NicholasWei/Cooking-Complete/blob/master/019.%20%E8%8A%A5%E6%9C%AB%E7%BD%97%E6%B0%8F%E8%99%BE)
-- [剁椒蒸鸡](https://github.com/NicholasWei/Cooking-Complete/blob/master/020.%20%E5%89%81%E6%A4%92%E8%92%B8%E9%B8%A1)
-- [鱼香茄子]
-- [口磨汤]
-- [炝炒莲花白]
-- [辣椒炒肉汤泡饭]
-- [醋炒蛋]
-- [酸汤肥牛]
-- [醋溜白菜]
-- [剁椒炒蛋]
+
+Keep updating....
 
